@@ -1,2 +1,2 @@
-# supeerstore-data-analysis-reports
+# superstore-data-analysis-reports
 Data Analysis Project using Python, Pandas, Matplotlib, Seaborn
